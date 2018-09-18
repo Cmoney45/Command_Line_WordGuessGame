@@ -1,0 +1,22 @@
+{
+  "name": "command_line_wordguessgame",
+  "version": "0.0.1",
+  "description": "Hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cmoney45/Command_Line_WordGuessGame.git"
+  },
+  "author": "Cmoney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cmoney45/Command_Line_WordGuessGame/issues"
+  },
+  "homepage": "https://github.com/Cmoney45/Command_Line_WordGuessGame#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
